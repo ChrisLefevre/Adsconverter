@@ -1,0 +1,486 @@
+[
+  {
+    "ID": 347412,
+    "TargetingCode": "sd_gen_exclusif=1"
+  },
+  {
+    "ID": 347428,
+    "TargetingCode": "sd_gen_exclusif=2"
+  },
+  {
+    "ID": 213763,
+    "TargetingCode": "all"
+  },
+  {
+    "ID": 390810,
+    "TargetingCode": "sd_gen=1"
+  },
+  {
+    "ID": 390809,
+    "TargetingCode": "sd_gen=2"
+  },
+  {
+    "ID": 369147,
+    "TargetingCode": "aff_bati=4"
+  },
+  {
+    "ID": 369064,
+    "TargetingCode": "aff_bati=3"
+  },
+  {
+    "ID": 369067,
+    "TargetingCode": "aff_bati=2"
+  },
+  {
+    "ID": 369065,
+    "TargetingCode": "aff_bati=1"
+  },
+  {
+    "ID": 351034,
+    "TargetingCode": "int_automotive=5"
+  },
+  {
+    "ID": 351032,
+    "TargetingCode": "int_automotive=4"
+  },
+  {
+    "ID": 351029,
+    "TargetingCode": "int_automotive=3"
+  },
+  {
+    "ID": 351028,
+    "TargetingCode": "int_automotive=2"
+  },
+  {
+    "ID": 351026,
+    "TargetingCode": "int_automotive=1"
+  },
+  {
+    "ID": 350787,
+    "TargetingCode": "int_sport=1"
+  },
+  {
+    "ID": 350794,
+    "TargetingCode": "int_other=9"
+  },
+  {
+    "ID": 350788,
+    "TargetingCode": "aff_sport=2"
+  },
+  {
+    "ID": 377582,
+    "TargetingCode": "aff_lifestyle=7"
+  },
+  {
+    "ID": 350734,
+    "TargetingCode": "aff_other=7"
+  },
+  {
+    "ID": 346563,
+    "TargetingCode": "all_traffic"
+  },
+  {
+    "ID": 373477,
+    "TargetingCode": "sd_age=10"
+  },
+  {
+    "ID": 372824,
+    "TargetingCode": "sd_age=10"
+  },
+  {
+    "ID": 372825,
+    "TargetingCode": "sd_age=10"
+  },
+  {
+    "ID": 372816,
+    "TargetingCode": "sd_age=13"
+  },
+  {
+    "ID": 372817,
+    "TargetingCode": "sd_age=13"
+  },
+  {
+    "ID": 356508,
+    "TargetingCode": "sd_age=13"
+  },
+  {
+    "ID": 349877,
+    "TargetingCode": "sd_age=1"
+  },
+  {
+    "ID": 349878,
+    "TargetingCode": "sd_age=2"
+  },
+  {
+    "ID": 349887,
+    "TargetingCode": "sd_age=10"
+  },
+  {
+    "ID": 347408,
+    "TargetingCode": "sd_gen=1"
+  },
+  {
+    "ID": 349892,
+    "TargetingCode": "sd_female_age=1"
+  },
+  {
+    "ID": 349880,
+    "TargetingCode": "sd_age=3"
+  },
+  {
+    "ID": 350708,
+    "TargetingCode": "aff_lifestyle=4"
+  },
+  {
+    "ID": 350730,
+    "TargetingCode": "aff_other=5"
+  },
+  {
+    "ID": 354867,
+    "TargetingCode": "cim_soc_stat=1"
+  },
+  {
+    "ID": 354919,
+    "TargetingCode": "cim_soc_stat=2"
+  },
+  {
+    "ID": 350766,
+    "TargetingCode": "int_other=8"
+  },
+  {
+    "ID": 350761,
+    "TargetingCode": "int_other=7"
+  },
+  {
+    "ID": 350733,
+    "TargetingCode": "int_other=6"
+  },
+  {
+    "ID": 350731,
+    "TargetingCode": "int_other=5"
+  },
+  {
+    "ID": 350702,
+    "TargetingCode": "int_other=4"
+  },
+  {
+    "ID": 349963,
+    "TargetingCode": "int_other=3"
+  },
+  {
+    "ID": 349957,
+    "TargetingCode": "int_other=2"
+  },
+  {
+    "ID": 349954,
+    "TargetingCode": "int_other=1"
+  },
+  {
+    "ID": 350772,
+    "TargetingCode": "int_lifestyle=4"
+  },
+  {
+    "ID": 350705,
+    "TargetingCode": "int_lifestyle=3"
+  },
+  {
+    "ID": 350700,
+    "TargetingCode": "int_lifestyle=2"
+  },
+  {
+    "ID": 350697,
+    "TargetingCode": "int_lifestyle=1"
+  },
+  {
+    "ID": 350789,
+    "TargetingCode": "int_geek=2"
+  },
+  {
+    "ID": 350728,
+    "TargetingCode": "int_geek=1"
+  },
+  {
+    "ID": 349965,
+    "TargetingCode": "int_food=1"
+  },
+  {
+    "ID": 349961,
+    "TargetingCode": "int_family=1"
+  },
+  {
+    "ID": 349959,
+    "TargetingCode": "int_actuality=1"
+  },
+  {
+    "ID": 350725,
+    "TargetingCode": "aff_sport=3"
+  },
+  {
+    "ID": 350769,
+    "TargetingCode": "aff_sport=1"
+  },
+  {
+    "ID": 350951,
+    "TargetingCode": "aff_other=12"
+  },
+  {
+    "ID": 350793,
+    "TargetingCode": "aff_other=11"
+  },
+  {
+    "ID": 350790,
+    "TargetingCode": "aff_other=10"
+  },
+  {
+    "ID": 350779,
+    "TargetingCode": "aff_other=9"
+  },
+  {
+    "ID": 350763,
+    "TargetingCode": "aff_other=8"
+  },
+  {
+    "ID": 350732,
+    "TargetingCode": "aff_other=6"
+  },
+  {
+    "ID": 350703,
+    "TargetingCode": "aff_other=4"
+  },
+  {
+    "ID": 349964,
+    "TargetingCode": "aff_other=3"
+  },
+  {
+    "ID": 349958,
+    "TargetingCode": "aff_other=2"
+  },
+  {
+    "ID": 349956,
+    "TargetingCode": "aff_other=1"
+  },
+  {
+    "ID": 350782,
+    "TargetingCode": "aff_lifestyle=8"
+  },
+  {
+    "ID": 350712,
+    "TargetingCode": "aff_lifestyle=5"
+  },
+  {
+    "ID": 350776,
+    "TargetingCode": "aff_lifestyle=7"
+  },
+  {
+    "ID": 350764,
+    "TargetingCode": "aff_lifestyle=6"
+  },
+  {
+    "ID": 350706,
+    "TargetingCode": "aff_lifestyle=3"
+  },
+  {
+    "ID": 350701,
+    "TargetingCode": "aff_lifestyle=2"
+  },
+  {
+    "ID": 350698,
+    "TargetingCode": "aff_lifestyle=1"
+  },
+  {
+    "ID": 350786,
+    "TargetingCode": "aff_food=5"
+  },
+  {
+    "ID": 350727,
+    "TargetingCode": "aff_food=4"
+  },
+  {
+    "ID": 350718,
+    "TargetingCode": "aff_food=3"
+  },
+  {
+    "ID": 350699,
+    "TargetingCode": "aff_food=2"
+  },
+  {
+    "ID": 350696,
+    "TargetingCode": "aff_food=1"
+  },
+  {
+    "ID": 350714,
+    "TargetingCode": "aff_family=2"
+  },
+  {
+    "ID": 349962,
+    "TargetingCode": "aff_family=1"
+  },
+  {
+    "ID": 350784,
+    "TargetingCode": "aff_actuality=4"
+  },
+  {
+    "ID": 350720,
+    "TargetingCode": "aff_actuality=3"
+  },
+  {
+    "ID": 350709,
+    "TargetingCode": "aff_actuality=2"
+  },
+  {
+    "ID": 349960,
+    "TargetingCode": "aff_actuality=1"
+  },
+  {
+    "ID": 349942,
+    "TargetingCode": "sd_fam=1"
+  },
+  {
+    "ID": 349943,
+    "TargetingCode": "sd_fam=2"
+  },
+  {
+    "ID": 349940,
+    "TargetingCode": "sd_stat=3"
+  },
+  {
+    "ID": 349941,
+    "TargetingCode": "sd_stat=4"
+  },
+  {
+    "ID": 349939,
+    "TargetingCode": "sd_stat=2"
+  },
+  {
+    "ID": 349938,
+    "TargetingCode": "sd_stat=1"
+  },
+  {
+    "ID": 349936,
+    "TargetingCode": "sd_gen_age_pra=2"
+  },
+  {
+    "ID": 349933,
+    "TargetingCode": "sd_gen_age_pra=1"
+  },
+  {
+    "ID": 349934,
+    "TargetingCode": "sd_age_pra=1"
+  },
+  {
+    "ID": 349929,
+    "TargetingCode": "sd_gen_pra=2"
+  },
+  {
+    "ID": 349931,
+    "TargetingCode": "sd_gen_pra=1"
+  },
+  {
+    "ID": 349927,
+    "TargetingCode": "sd_pra=1"
+  },
+  {
+    "ID": 349926,
+    "TargetingCode": "sd_male_age=9"
+  },
+  {
+    "ID": 349923,
+    "TargetingCode": "sd_male_age=8"
+  },
+  {
+    "ID": 349920,
+    "TargetingCode": "sd_male_age=7"
+  },
+  {
+    "ID": 349937,
+    "TargetingCode": "sd_male_age=6"
+  },
+  {
+    "ID": 349901,
+    "TargetingCode": "sd_male_age=4"
+  },
+  {
+    "ID": 349899,
+    "TargetingCode": "sd_male_age=3"
+  },
+  {
+    "ID": 349915,
+    "TargetingCode": "sd_male_age=5"
+  },
+  {
+    "ID": 349897,
+    "TargetingCode": "sd_male_age=2"
+  },
+  {
+    "ID": 349893,
+    "TargetingCode": "sd_male_age=1"
+  },
+  {
+    "ID": 349924,
+    "TargetingCode": "sd_female_age=9"
+  },
+  {
+    "ID": 349921,
+    "TargetingCode": "sd_female_age=8"
+  },
+  {
+    "ID": 349919,
+    "TargetingCode": "sd_female_age=7"
+  },
+  {
+    "ID": 349935,
+    "TargetingCode": "sd_female_age=6"
+  },
+  {
+    "ID": 349914,
+    "TargetingCode": "sd_female_age=5"
+  },
+  {
+    "ID": 349900,
+    "TargetingCode": "sd_female_age=4"
+  },
+  {
+    "ID": 349898,
+    "TargetingCode": "sd_female_age=3"
+  },
+  {
+    "ID": 349896,
+    "TargetingCode": "sd_female_age=2"
+  },
+  {
+    "ID": 347409,
+    "TargetingCode": "sd_gen=2"
+  },
+  {
+    "ID": 349890,
+    "TargetingCode": "sd_age=12"
+  },
+  {
+    "ID": 349888,
+    "TargetingCode": "sd_age=11"
+  },
+  {
+    "ID": 349886,
+    "TargetingCode": "sd_age=9"
+  },
+  {
+    "ID": 349917,
+    "TargetingCode": "sd_age=8"
+  },
+  {
+    "ID": 349932,
+    "TargetingCode": "sd_age=7"
+  },
+  {
+    "ID": 349884,
+    "TargetingCode": "sd_age=6"
+  },
+  {
+    "ID": 349882,
+    "TargetingCode": "sd_age=5"
+  },
+  {
+    "ID": 349881,
+    "TargetingCode": "sd_age=4"
+  }
+]
