@@ -1,14 +1,14 @@
-#Data converter - Mini App
+# Data converter - Mini App
 
 ## Installation de cette app
 
-###Installer Node JS et NPM si pas déjà présent sur la machine
+### Installer Node JS et NPM si pas déjà présent sur la machine
 
 > Voir https://www.npmjs.com/get-npm
 
 
 
-###Installer Nodemon 
+### Installer Nodemon 
 
 L'application doit recharger automatiquement en cade de mide à jour du fichier *lotameIds.json* 
 
@@ -18,7 +18,7 @@ $ npm install -g nodemon
 
 
 
-###Installer Express generator
+### Installer Express generator
 
 ```bash
 $ npm install -g express-generator@4
@@ -26,7 +26,7 @@ $ npm install -g express-generator@4
 
 
 
-###Créer l'app nodejs express
+### Créer l'app nodejs express
 
 ```bash
 $ express dataconvecter
@@ -124,7 +124,7 @@ L'utilisation de **nodemon**  est recommandé pour ne pas devoir relancer manuel
 
 
 
-##Démarrage de l'application
+## Démarrage de l'application
 
 Démarrer avec Nodemon
 
@@ -155,7 +155,7 @@ https://be-rtl.videoplaza.tv/proxy/pixel/v2?LotameParam=sd_female_age=6,sd_femal
 
 
 
-##Démonstration 
+## Démonstration 
 
 > Cette url est une démonstration 
 >
